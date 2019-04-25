@@ -45,6 +45,7 @@ const FileUpload = () => {
         setMessage(err.response.data.msg);
       }
     }
+    setTimeout(() => setMessage(''), 5000);
   }
 
   return (
