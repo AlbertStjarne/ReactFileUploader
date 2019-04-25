@@ -9,7 +9,7 @@ Styling is made with Bootstrap.
 ## Screenshot
 
 
-<img src="file_uploaded.gif" width=600>
+<img src="file_uploaded.png" width=600>
 
 
 
